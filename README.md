@@ -1,9 +1,22 @@
-# Fabric Example Mod
+[//]: # (<- Header ->)
+<h1 align="center">🔥 Hellborne 🔥</h1>
+<h3 align="center">The ultimate Nether enhancement for Showdown SMP!</h3>
+<h6 align="center">This Fabric mod transforms the Nether dimension with new blocks, items, and mechanics!</h6>
+<hr>
 
-## Setup
+### 📑 Requirements
+* **Java 21+**
+* **Minecraft 1.21.5**
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+### 🆘 Where can I get help?
+* **[GitHub Issues](https://github.com/ShowdownMC/Hellborne/issues)**
 
-## License
+### 📦 Installation
+1. Download the latest release from [GitHub Releases](https://github.com/ShowdownMC/Hellborne/releases)
+2. Place the `.jar` file in your `mods` folder
+3. Launch Minecraft with Fabric Loader
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+---
+<div align="center">
+Made with ❤️ for Showdown SMP
+</div>
