@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "hellborne",
 	"version": "${version}",
-	"name": "Example mod",
+	"name": "Hellborne",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"pixityomg"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -16,19 +16,12 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.showdownmc.ExampleMod"
+			"net.showdownmc.Hellborne"
 		],
 		"client": [
-			"net.showdownmc.ExampleModClient"
+			"net.showdownmc.HellborneClient"
 		]
 	},
-	"mixins": [
-		"modid.mixins.json",
-		{
-			"config": "modid.client.mixins.json",
-			"environment": "client"
-		}
-	],
 	"depends": {
 		"fabricloader": ">=0.16.10",
 		"minecraft": "~1.21.5",
