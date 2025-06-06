@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"net.showdownmc.ExampleMod"
 		],
 		"client": [
-			"com.example.ExampleModClient"
+			"net.showdownmc.ExampleModClient"
 		]
 	},
 	"mixins": [
